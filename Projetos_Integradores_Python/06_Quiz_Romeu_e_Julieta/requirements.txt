@@ -1,0 +1,1 @@
+# Utiliza apenas a biblioteca padrão do Python 3.10+ (tkinter, random, datetime, json, pathlib, unittest)
