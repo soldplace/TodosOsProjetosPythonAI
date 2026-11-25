@@ -1,1 +1,0 @@
-# Utiliza apenas a biblioteca padrão do Python 3.10+ (tkinter, datetime, math, re, json, pathlib, unittest)
